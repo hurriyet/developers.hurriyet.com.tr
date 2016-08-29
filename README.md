@@ -2,12 +2,14 @@
 
 Hürriyet içeriklerine hızlıca ulaşmak ve web/mobil/masaüstü uygulamalarında kullanabilmek için Hürriyet API servisini kullanmaya şimdi başlayabilirsiniz!
 
+Sorularınızı ve isteklerinizi bize GitHub üzerinden [iletebilirsiniz](https://github.com/hurriyet/developers.hurriyet.com.tr/issues).
+
 ### Başlarken
 
- 1. Sisteme [kayıt ol](/developers/new).
- 2. Profil sayfandan ya da [API Explorer](/api-explorer/hurriyet-developers-api/versions/1.0/) sayfasından yeni bir **API key** oluştur.
- 3. API [dökümantasyonunu](/docs/versions/1.0), [Sık Sorulan Sorular](/docs/versions/1.0/sik-sorulan-sorular-sss)'ı ve [Kullanım Koşulları](/docs/versions/1.0/kullanim-kosullari)'nı oku.
- 4. [API Explorer](/api-explorer/hurriyet-developers-api/versions/1.0/) yardımıyla hazır API'ları **hiç kod yazmadan** test et.
+ 1. Sisteme [kayıt ol](https://developers.hurriyet.com.tr/developers/new).
+ 2. Profil sayfandan ya da [API Explorer](https://developers.hurriyet.com.tr/api-explorer/hurriyet-developers-api/versions/1.0/) sayfasından yeni bir **API key** oluştur.
+ 3. API [dökümantasyonunu](https://developers.hurriyet.com.tr/docs/versions/1.0), [Sık Sorulan Sorular](https://developers.hurriyet.com.tr/docs/versions/1.0/sik-sorulan-sorular-sss)'ı ve [Kullanım Koşulları](https://developers.hurriyet.com.tr/docs/versions/1.0/kullanim-kosullari)'nı oku.
+ 4. [API Explorer](https://developers.hurriyet.com.tr/api-explorer/hurriyet-developers-api/versions/1.0/) yardımıyla hazır API'ları **hiç kod yazmadan** test et.
 
 ### OData Nedir?
 OData _(Open Data Protocol)_ HTTP protokolü kullanan REST tabanlı veri kaynağı servislerin sorgulanması amacıyla kullanılan global bir protokoldür.
@@ -75,7 +77,7 @@ Hürriyet API ile haberlere, köşe yazılarına, yazarlara, foto galerilere ve 
 
 **4. Hürriyet API'yi nasıl kullanabilirim?**
 
-  Hürriyet API, RESTful tabanlı, kaynak-yönelimli bir mimari ile kurulmuştur. Bu sayede standart HTTP istekleri ile (şu anda sadece _(GET)_ metodu hizmet vermektedir) Hürriyet verilerine rahatlıkla ulaşabilirsiniz. REST mimarisi ve OData protokolü ile ilgili detayları [bu adresten](/docs/versions/1.0/odata-hakkinda) edinebilirsiniz. 
+  Hürriyet API, RESTful tabanlı, kaynak-yönelimli bir mimari ile kurulmuştur. Bu sayede standart HTTP istekleri ile (şu anda sadece _(GET)_ metodu hizmet vermektedir) Hürriyet verilerine rahatlıkla ulaşabilirsiniz. REST mimarisi ve OData protokolü ile ilgili detayları [bu adresten](https://developers.hurriyet.com.tr/docs/versions/1.0/odata-hakkinda) edinebilirsiniz. 
 
 **5. Hürriyet'in tüm içeriklerine neden ulaşamıyorum?**
 
@@ -87,7 +89,7 @@ Bu anahtarlar sayesinde API kullanım detaylarını gözlemleyebiliyor, kullanı
 
 **7. Hürriyet API'ye yapacağım isteklerin bir sınırı var mıdır?**
 
-Evet, her bir kullanıcının anlık ve günlük olarak yapacağı istekler sınırlandırılmıştır. Sınır ve yetkileri [bu adresten](/docs/versions/1.0/istek-sinirlari) öğrenebilirsiniz. Eğer daha yüksek sınır ve yetkilere ihtiyaç duyuyorsanız <destek@hurriyet.com.tr> adresi üzerinden bizimle irtibata geçebilirsiniz.
+Evet, her bir kullanıcının anlık ve günlük olarak yapacağı istekler sınırlandırılmıştır. Sınır ve yetkileri [bu adresten](https://developers.hurriyet.com.tr/docs/versions/1.0/istek-sinirlari) öğrenebilirsiniz. Eğer daha yüksek sınır ve yetkilere ihtiyaç duyuyorsanız <destek@hurriyet.com.tr> adresi üzerinden bizimle irtibata geçebilirsiniz.
 
 **8. Hürriyet API hangi sonuç formatlarını desteklemektedir?**
 
@@ -95,7 +97,4 @@ Evet, her bir kullanıcının anlık ve günlük olarak yapacağı istekler sın
 
 **9. Gelecek geliştirme planlarınız için harika fikirlerim var!**
 
-Fikirlerinizi bizimle hemen paylaşın! <destek@hurriyet.com.tr> adresinde maillerinizi görmeyi bekliyoruz.
- 
- 
- 
+Fikirlerinizi bizimle hemen paylaşın! Sorularınızı ve isteklerinizi bize GitHub üzerinden [iletebilirsiniz](https://github.com/hurriyet/developers.hurriyet.com.tr/issues).
