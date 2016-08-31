@@ -77,7 +77,7 @@ Hürriyet API ile haberlere, köşe yazılarına, yazarlara, foto galerilere ve 
 
 **4. Hürriyet API'yi nasıl kullanabilirim?**
 
-  Hürriyet API, RESTful tabanlı, kaynak-yönelimli bir mimari ile kurulmuştur. Bu sayede standart HTTP istekleri ile (şu anda sadece _(GET)_ metodu hizmet vermektedir) Hürriyet verilerine rahatlıkla ulaşabilirsiniz. REST mimarisi ve OData protokolü ile ilgili detayları [bu adresten](https://developers.hurriyet.com.tr/docs/versions/1.0/odata-hakkinda) edinebilirsiniz. 
+  Hürriyet API, RESTful tabanlı, kaynak-yönelimli bir mimari ile kurulmuştur. Bu sayede standart HTTP istekleri ile (şu anda sadece _(GET)_ metodu hizmet vermektedir) Hürriyet verilerine rahatlıkla ulaşabilirsiniz. REST mimarisi ve OData protokolü ile ilgili detayları [bu adresten](https://developers.hurriyet.com.tr/docs/versions/1.0/odata-hakkinda) edinebilirsiniz.
 
 **5. Hürriyet'in tüm içeriklerine neden ulaşamıyorum?**
 
@@ -85,7 +85,7 @@ Hürriyet API geliştirilirken kullanım koşulları, içerik hakları gibi huku
 
 **6. Hürriyet API'yi kullanmak için neden özel bir anahtara _(API Key)_ ihtiyacım var?**
 
-Bu anahtarlar sayesinde API kullanım detaylarını gözlemleyebiliyor, kullanıcılarımızın "Kullanım Koşulları"na uyduklarından emin olabiliyoruz. Bununla birlikte kulanıcı gizliliğine de özenle dikkat ediyor ve kayıt bilgilerinizi herhangi bir servis sağlayıcısı ile paylaşmadığımızı taahhüt ediyoruz.
+Bu anahtarlar sayesinde API kullanım detaylarını gözlemleyebiliyor, kullanıcılarımızın "Kullanım Koşulları"na uyduklarından emin olabiliyoruz. Bununla birlikte kullanıcı gizliliğine de özenle dikkat ediyor ve kayıt bilgilerinizi herhangi bir servis sağlayıcısı ile paylaşmadığımızı taahhüt ediyoruz.
 
 **7. Hürriyet API'ye yapacağım isteklerin bir sınırı var mıdır?**
 
