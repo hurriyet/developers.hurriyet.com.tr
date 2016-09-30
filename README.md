@@ -28,6 +28,10 @@ OData yapısının kendine özgü bir sorgu yapısı bulunmaktadır. Aşağıda 
 ```
 https://api.hurriyet.com.tr/v1/articles?$select=Title
 ```
+> Files, RelatedNews gibi ilişkisel özellikleri sınırlandırmak için $select filtresini $expand ile kullanmak gerekmektedir. Örnek kullanım;
+```
+https://api.hurriyet.com.tr/v1/articles?$select=Files&$expand=Files
+```
 > **$filter** -> Sorguya filtre eklenerek cevap setinin sınırlandırılması sağlanır. Örnek kullanım;
 ```
 https://api.hurriyet.com.tr/v1/articles?$filter=Title eq 'Tatilde formda kalmak'
