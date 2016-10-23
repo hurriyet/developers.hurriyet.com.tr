@@ -34,7 +34,7 @@ https://api.hurriyet.com.tr/v1/articles?$select=Files&$expand=Files
 ```
 > **$filter** -> Sorguya filtre eklenerek cevap setinin sınırlandırılması sağlanır. Örnek kullanım;
 ```
-https://api.hurriyet.com.tr/v1/articles?$filter=Title eq 'Tatilde formda kalmak'
+https://api.hurriyet.com.tr/v1/articles?$filter=Path eq '/gundem/'
 ```
 
 > **top** -> Sorgudan dönecek olan cevap setindeki kayıt sayısının sınırlandırılması sağlanır. Örnek kullanım;
