@@ -13,4 +13,5 @@ Tüketiciler
 Geliştirici                  | Uygulama         |
 ---------------------------- | ------------------
 [Nuri Uzunoğlu](https://github.com/nuriu) | [Haber](https://github.com/nuriu/Haber) |
+[Oğuzhan ÇAKAR](https://github.com/ogzcakar) | [HurriyetApi](https://github.com/ogzcakar/HurriyetApi) |
 
