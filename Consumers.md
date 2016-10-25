@@ -13,4 +13,5 @@ Tüketiciler
 Geliştirici                  | Uygulama         |
 ---------------------------- | ------------------
 [Nuri Uzunoğlu](https://github.com/nuriu) | [Haber](https://github.com/nuriu/Haber) |
+[Ender Ahmet Yurt](https://github.com/enderahmetyurt) | [Ruby CLI](https://github.com/enderahmetyurt/hurriyet-cli) |
 
