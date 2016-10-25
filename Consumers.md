@@ -14,4 +14,5 @@ Geliştirici                  | Uygulama         |
 ---------------------------- | ------------------
 [Nuri Uzunoğlu](https://github.com/nuriu) | [Haber](https://github.com/nuriu/Haber) |
 [Oğuzhan ÇAKAR](https://github.com/ogzcakar) | [HurriyetApi](https://github.com/ogzcakar/HurriyetApi) |
+[Ender Ahmet Yurt](https://github.com/enderahmetyurt) | [Ruby CLI](https://github.com/enderahmetyurt/hurriyet-cli) |
 
