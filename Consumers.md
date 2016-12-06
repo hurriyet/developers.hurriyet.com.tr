@@ -16,5 +16,6 @@ Geliştirici                  | Uygulama         |
 [Oğuzhan ÇAKAR](https://github.com/ogzcakar) | [HurriyetApi](https://github.com/ogzcakar/HurriyetApi) |
 [Ender Ahmet Yurt](https://github.com/enderahmetyurt) | [Ruby CLI](https://github.com/enderahmetyurt/hurriyet-cli) |
 [Savaş Can ALTUN](https://github.com/saltun) | [PHP Api Class](https://github.com/saltun/Hurriyet) |
+[Ali GÖREN](https://github.com/aligoren) | [HurriyetNet](https://github.com/aligoren/HurriyetNet) |
 
 
