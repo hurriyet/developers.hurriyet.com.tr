@@ -20,4 +20,5 @@ Geliştirici                  | Uygulama         |
 [Yiğit Özkavcı](https://github.com/yigitozkavci) | [Ruby Wrapper for API](https://github.com/yigitozkavci/hurriyet-ruby) |
 [Houseofapps](https://github.com/Houseofapps-com) | [Hürriyet API JS Wrapper](https://github.com/Houseofapps-com/hurriyet-js-sdk) |
 [Hürriyet](https://github.com/hurriyet) | [Hürriyet Public API iOS SDK](https://github.com/hurriyet/hurriyet-public-api-ios-sdk) |
-[Hürriyet](https://github.com/hurriyet) | [Hürriyet Public API Android SDK](https://github.com/hurriyet/hurriyet-public-api-android-sdk)
+[Hürriyet](https://github.com/hurriyet) | [Hürriyet Public API Android SDK](https://github.com/hurriyet/hurriyet-public-api-android-sdk) |
+[Melih Mucuk](https://github.com/melihmucuk) | [Hugo - Hürriyet API Golang Wrapper](https://github.com/melihmucuk/hugo)
