@@ -12,7 +12,7 @@ Tüketiciler
 -------------
 Geliştirici                  | Uygulama         |
 ---------------------------- | ------------------
-[Nuri Uzunoğlu](https://github.com/nuriu) | [Haber](https://github.com/nuriu/Haber) |
+[Nuri UZUNOĞLU](https://github.com/nuriu) | [Haber](https://github.com/nuriu/Haber), [C++ Hürriyet API Arabirimi](https://github.com/nuriu/hapicpp) |
 [Oğuzhan ÇAKAR](https://github.com/ogzcakar) | [HurriyetApi](https://github.com/ogzcakar/HurriyetApi) |
 [Ender Ahmet Yurt](https://github.com/enderahmetyurt) | [Ruby CLI](https://github.com/enderahmetyurt/hurriyet-cli) |
 [Savaş Can ALTUN](https://github.com/saltun) | [PHP Api Class](https://github.com/saltun/Hurriyet) |
