@@ -102,3 +102,6 @@ Evet, her bir kullanıcının anlık ve günlük olarak yapacağı istekler sın
 **9. Gelecek geliştirme planlarınız için harika fikirlerim var!**
 
 Fikirlerinizi bizimle hemen paylaşın! Sorularınızı ve isteklerinizi bize GitHub üzerinden [iletebilirsiniz](https://github.com/hurriyet/developers.hurriyet.com.tr/issues).
+
+### Kütüphaneyi Kullanan Uygulamalar
+- [Hürriyet Masaüstü Haber Uygulaması](https://github.com/nuriu/Haber)
