@@ -23,3 +23,4 @@ Geliştirici                  | Uygulama         |
 [Hürriyet](https://github.com/hurriyet) | [Hürriyet Public API Android SDK](https://github.com/hurriyet/hurriyet-public-api-android-sdk) |
 [Melih Mucuk](https://github.com/melihmucuk) | [Hugo - Hürriyet API Golang Wrapper](https://github.com/melihmucuk/hugo)
 [Yiğit Özkavcı](https://github.com/yigitozkavci) | [Haskell Wrapper for API](https://github.com/yigitozkavci/hurriyet-haskell)
+[Barış Esen](https://github.com/barisesen) | [Hurriyet Php Api Client](https://github.com/barisesen/Hurriyet-Php-Api-Client)
