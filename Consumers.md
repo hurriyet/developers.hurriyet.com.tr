@@ -24,3 +24,4 @@ Geliştirici                  | Uygulama         |
 [Melih Mucuk](https://github.com/melihmucuk) | [Hugo - Hürriyet API Golang Wrapper](https://github.com/melihmucuk/hugo)
 [Yiğit Özkavcı](https://github.com/yigitozkavci) | [Haskell Wrapper for API](https://github.com/yigitozkavci/hurriyet-haskell)
 [Barış Esen](https://github.com/barisesen) | [Hurriyet Php Api Client](https://github.com/barisesen/Hurriyet-Php-Api-Client)
+[BMuahmmed Bilal Kutlu](https://github.com/darkfolcer) | [Django client for Hurriyet API](https://github.com/darkfolcer/hurriyetApiConsuming)
